@@ -32,13 +32,6 @@ This is a sample business-style website developed using WordPress as part of an 
 - [Smush](https://wordpress.org/plugins/wp-smushit/)
 - [Flamingo](https://wordpress.org/plugins/flamingo/) (optional)
 
-## Screenshots
-
-Add screenshots of your pages, backend, and plugin configurations.
-
-## Live Link
-
-[Insert your deployed site link here]
 
 ## License
 
